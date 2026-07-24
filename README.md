@@ -1,8 +1,6 @@
 # Curriculo
 # Sarah de Oliveira Justino 
 
-# Idade 16 
-
 # Contato 
 
 sarah.justino@edu.senai.br 
